@@ -259,7 +259,7 @@
                 <executions>
                     <execution>
                         <id>email-library</id>
-                        <phase>compile</phase>
+                        <phase>package</phase>
                         <goals>
                             <goal>attached</goal>
                         </goals>
